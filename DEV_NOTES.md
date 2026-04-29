@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Added type hints to helper functions
 - Addressed feedback from self code review
+
+## 2026-04-29
+- Pinned dependency versions for reproducibility
