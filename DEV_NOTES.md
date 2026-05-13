@@ -20,3 +20,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Pinned dependency versions for reproducibility
+
+## 2026-05-13
+- Added inline documentation for core functions
+- Addressed feedback from self code review
+- Reviewed codebase, identified areas for improvement
